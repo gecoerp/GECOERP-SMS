@@ -6,7 +6,7 @@ Conector web-service para envió y recepción de mensajes de texto SMS
 * Documentation: https://www.gecoerp.mx/
 
 - [Instalación](#instalación)
-- [Compra de mensajes de texto](#Compra de mensajes de texto)
+- [Compra de mensajes de texto](#Compra-de-mensajes-de-texto)
 
 ## Instalación
 
